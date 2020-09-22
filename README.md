@@ -26,3 +26,6 @@ Purple - UVI 11+, protection strongly advised.
 This page was built using the API created and provided by Open Weather. It uses their APIs for current weather, 5 day / 3 hour weather forecast, and UV Index.
 
 The geolocation API is built into the Chrome web browser.
+https://getbootstrap.com/ - Bootstrap framework
+https://fontawesome.com/ - Fontawesome framework
+https://jquery.com/ - jQuery library
