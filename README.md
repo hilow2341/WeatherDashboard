@@ -11,3 +11,8 @@ I started by dividing the main task into smaller tasks:
 2. Send the request to the Openweather server and retrieve the current weather and forecast
 3. Show the information on screen
 4. Create a button that does the same thing as steps 2 and 3 for the weather in that city again
+
+## Features
+
+The UV Index information that is displayed changes background colors based on the UV Index value. Being exposed to strong ultraviolet rays for extended periods of time can be dangerous, causing sunburn and possibly skin cancer. The colors are depicted as follows:
+
