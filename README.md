@@ -21,3 +21,7 @@ Yellow - UVI under 6 (3-6), protection advised.
 Orange - UVI under 8 (6-7), protection advised.
 Red - UVI under 11 (8-10), protection strongly advised.
 Purple - UVI 11+, protection strongly advised.
+
+## Resources
+This page was built using the API created and provided by Open Weather. It uses their APIs for current weather, 5 day / 3 hour weather forecast, and UV Index.
+
