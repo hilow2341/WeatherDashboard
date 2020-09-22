@@ -31,3 +31,7 @@ https://fontawesome.com/ - Fontawesome framework
 https://jquery.com/ - jQuery library
 
 ## Refrences
+
+https://developer.mozilla.org/en-US/ - Various documentation
+https://stackoverflow.com/ - Questions & Answers
+https://en.wikipedia.org/ - Ultraviolet Index Information
