@@ -16,3 +16,5 @@ I started by dividing the main task into smaller tasks:
 
 The UV Index information that is displayed changes background colors based on the UV Index value. Being exposed to strong ultraviolet rays for extended periods of time can be dangerous, causing sunburn and possibly skin cancer. The colors are depicted as follows:
 
+Green - UVI under 3 (1-2), no protection advised.
+Yellow - UVI under 6 (3-6), protection advised.
