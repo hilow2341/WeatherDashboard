@@ -7,3 +7,5 @@ A weather dashboard which displays the current weather and forecast for a search
 ## Approach
 I started by dividing the main task into smaller tasks, as outlined below:
 1. Get the user input city
+2. Send the request to the Openweather server and retrieve the current weather and forecast
+3. Show the information on screen
