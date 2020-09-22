@@ -18,3 +18,6 @@ The UV Index information that is displayed changes background colors based on th
 
 Green - UVI under 3 (1-2), no protection advised.
 Yellow - UVI under 6 (3-6), protection advised.
+Orange - UVI under 8 (6-7), protection advised.
+Red - UVI under 11 (8-10), protection strongly advised.
+Purple - UVI 11+, protection strongly advised.
